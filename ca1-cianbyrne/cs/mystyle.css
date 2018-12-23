@@ -1,0 +1,276 @@
+body {
+    background-color: #f9f9fa;
+}
+
+.myCard {
+    margin-left: auto;
+    border-radius: 4px;
+    box-shadow: 0px 1px 4px rgba(12, 12, 13, 0.1);
+    margin-top: 15px;
+  
+}
+
+
+.myMovieDays {
+    margin:0;
+    border: 0px;
+    
+    
+    
+}
+
+.card-img-top {
+    height: 100%;
+    width: 100%;
+}
+
+.myDays {
+    margin-left: 15px;
+    margin-bottom: 15px;
+    box-shadow: 0 2px 8px rgba(12, 12, 13, 0.1);
+    border: 0px;
+   
+
+}
+
+.mylargeCard {
+    margin-bottom: 15px;
+}
+
+.myCardImage {
+    height: 300px;
+    width: 300px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+}
+
+.myCarousel {
+    margin-top: 15px;
+    border-radius: 4px;
+}
+
+.imageContainer {
+    margin: 0;
+    max-width: 100%;
+    max-height: 100%;
+
+}
+
+.image-fluid {
+    border-radius: 4px;
+}
+
+/*nav*/
+
+.navbar {
+  /*  font-size: 20px;
+    height: 80px; 
+    width: 100%;*/
+    background-color: #38383d;
+}
+
+.btn-secondary {
+    background-color: #45a1ff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.btn-secondary:hover {
+    background-color: #0a84ff;
+}
+
+.btn-primary:hover {
+    background-color: #0060df;
+}
+
+.btn {  
+    border: 0px;
+}
+
+.btn-primary {
+    background-color: #0a84ff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+
+.card {
+    border: 0;
+}
+
+
+
+
+
+
+
+
+.myJumbo {
+    margin-bottom: 0px;
+    box-shadow: 0 2px 8px rgba(12, 12, 13, 0.1);
+    
+    
+}
+
+
+.myFooter {
+    margin-top: 15px;
+    margin-left: 15px;
+    background-color: #38383d;
+    color: #f9f9fa;
+    
+}  
+
+
+
+
+
+/*
+form
+*/
+
+.mySignUpForm {
+    margin-top: 15px;
+    border-radius: 4px;
+    border: 4px solid #0a84ff;
+    padding: 20px;
+    box-shadow: 0px 1px 4px rgba(12, 12, 13, 0.1);
+    margin-left: 15px;
+
+}
+
+.mySignInForm {
+     margin-top: 15px;
+    border-radius: 4px;
+    border: 4px solid #0a84ff;
+    padding: 20px;
+    padding-bottom: 280px;
+    box-shadow:0px 1px 4px rgba(12, 12, 13, 0.1);
+    margin-right: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*dashboard*/
+
+
+.myDashboardTitle {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    
+}
+
+.myDashboardCard {
+    margin-left: 15px;
+    margin-bottom: 15px;
+    box-shadow: 0px 1px 4px rgba(12, 12, 13, 0.1);
+}
+
+.myBarChartCard {
+    margin-left: 15px;
+    margin-bottom: 15px;
+     box-shadow: 0px 1px 4px rgba(12, 12, 13, 0.1);
+}
+.barChartCard2 {
+    padding-bottom: 77px;
+}
+
+.mySideWaysBarCard {
+    margin-left: 15px;
+    box-shadow: 0px 1px 4px rgba(12, 12, 13, 0.1);
+}
+
+.myProfitCard {
+    padding-left: 15px;
+    padding-bottom: 25px;
+    box-shadow: 0px 1px 4px rgba(12, 12, 13, 0.1);
+    margin-top: 15px;
+}
+
+.myPieChartCard {
+    margin-bottom: 15px;
+    margin-left: 15px;
+    box-shadow: 0px 1px 4px rgba(12, 12, 13, 0.1);
+}
+
+.myLineGraphCard {
+    margin-top: 15px;
+}
+
+
+/*fonts*/
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+h5 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+   
+
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+td {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+th {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+label {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-style: bold;
+}
+
+.form-control {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    border-radius: 4px;
+    border-color: #45a1ff;
+    
+}
+
+a:hover {
+    text-decoration: none;
+    color: #0060df;
+}
